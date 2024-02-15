@@ -1,0 +1,2 @@
+# CHATFREAK
+Chatfreak is a real-time chat application which is made using React, Node.js and Socket.io with MongoDB to provide users' a hassle free chatting experience while maintaining the users' privacy through end-to-end encryption. It has features like registering if you are a first time user, logging in if you already have an account, creating your own avatar and most importantly sending text messages to your friends along with emojis etc.
